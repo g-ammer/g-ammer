@@ -1,5 +1,5 @@
-### Hi there, I'm Georg👋
-## ... a data scientist and neuroscientist interested in artificial and biological neural networks
+## Hi there, I'm Georg👋
+### ... a data scientist and neuroscientist interested in artificial and biological neural networks
 
 
 <!--

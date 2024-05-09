@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Georg👋
+A data scientist and neuroscientist interested in artificial and biological neural networks
+
 
 <!--
 **g-ammer/g-ammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
